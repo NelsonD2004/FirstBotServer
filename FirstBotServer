@@ -46,4 +46,4 @@ async def on_message(message):
         await message.channel.send("\n:crown: :shopping_cart: **__Luxury Shop__** :shopping_cart: :crown: \n\n*__Limited time offer!__* Get the **__Better__** for **__Cheaper__** \n\n:park: Sky Blue - 4,750,000 :park:\n\n:peach: Peach Orange - 1,750,000 :peach: \n\n:notepad_spiral: Custom Command - 900,000 :notepad_spiral:\n\n:fleur_de_lis: Legendary Item (Adventure) - 250,000 :fleur_de_lis: \n\nDm Russian_Fire#8155 if you are planning to buy something :upside_down:")
 
         
-client.run("Njk5MTU5ODM4ODczMzU0Mjkx.XpQVsg.0dKZ4xgiw86L_qnk3sBGkphBvuA")
+client.run("token goes here")
